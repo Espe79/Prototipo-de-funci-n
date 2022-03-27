@@ -5,6 +5,7 @@ Creando una función que pueda sumar dos números enteros
 definimos las variables de entradas de la función suma:
 
 x = int(input("ingrese el primer número:"))
+
 y = int(input("ingrese el segundo número:"))
 
 ##Paso 2:
