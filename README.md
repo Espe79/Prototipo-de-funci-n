@@ -1,5 +1,5 @@
  
-Crea una función que pueda sumar dos números enteros
+### Crea una función que pueda sumar dos números enteros
 
 ##Paso 1: 
 Crear una función llamada: suma2numeros
