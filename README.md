@@ -20,14 +20,18 @@ x = int(input("ingrese el primer número:"))
 y = int(input("ingrese el segundo número:"))
 
 ## Prueba de entrada:
-x=2
 
-y=3
+ingrese el primer número: 2
+
+ingrese el segundo número: 3
 
 ## Prueba de salida:
 
 print("La suma es:" + str(suma2numeros(x, y))) 
 
-5
+La suma es: 5
 
+## Explicación
+
+La suma de los 2 números enteros x & y se calcula como 2+3=5
 
