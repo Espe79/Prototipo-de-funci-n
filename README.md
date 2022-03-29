@@ -21,10 +21,13 @@ y = int(input("ingrese el segundo número:"))
 
 ## Prueba de entrada:
 x=2
+
 y=3
 
 ## Prueba de salida:
+
 print("La suma es:" + str(suma2numeros(x, y))) 
+
 5
 
 
